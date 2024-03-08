@@ -12,4 +12,4 @@ Here's what it offers:
 
 The aim of this report is to provide a vital tool for stakeholders to dissect product specifics and make data-backed decisions.  
 
-You can also find the video presention of this dashboard in the repository.
+You can also find the video presention of this dashboard in the repository. Datasets can be found in the "Amazon.rar" file within directory.
